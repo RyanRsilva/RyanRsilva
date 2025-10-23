@@ -14,7 +14,7 @@
 </p>
 
 <div align="center">  
-<a href="https://www.instagram.com/ryanr.silva/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-9E47FF?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.instagram.com/ryanr.silva/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-9E47FF?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="mailto:ryanrogerio29@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-9E47FF?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="SEU_LINK_DISCORD_AQUI" target="_blank"><img src="https://img.shields.io/badge/-Discord-9E47FF?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>  
